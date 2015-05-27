@@ -1,5 +1,5 @@
 package com.arrays;
-
+//DOES NOT WORK
 import java.util.Scanner;
 
 public class RemoveDuplicates {
